@@ -16,3 +16,8 @@
 </details>
 
 sign my $\color{#F5233F}\large{\text{atabook}}$ if you'd like⠀[(>⩊< マ](https://meilodic.atabook.org/)
+
+![blink1](https://wilardo.crd.co/assets/images/gallery09/6c8fe462_original.gif?v=f38baa4b) ![blink2](https://wilardo.crd.co/assets/images/gallery25/fd138842_original.gif?v=f38baa4b)
+<br>
+![blink3](https://wilardo.crd.co/assets/images/gallery19/a21199cc_original.gif?v=f38baa4b)
+![blink4](https://wilardo.crd.co/assets/images/gallery09/5dae6404_original.gif?v=f38baa4b)
