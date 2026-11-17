@@ -4,13 +4,13 @@
 
 <details>
    <summary> $\color{#F5233F}{\text{♬⠀info}}$ </summary>
-   :⠀_whisper_2int
+   :⠀<i>whisper</i>2int
    <br>
    :⠀c+h $\color{#F5233F}{\text{encouraged}}$, i love sitting with people ♡
    <br>
-   :⠀i use the block button for its _purpose_
+   :⠀i use the block button for its <i>purpose</i>
 
-   ⠀⠀*making a better intro later*
+   ⠀⠀ ⠀⠀<i>making a better intro later</i>
 </details>
 
 sign my $\color{#F5233F}{\text{atabook}}$ if you'd like⠀(๑ᵔ⤙ᵔ๑)
