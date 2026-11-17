@@ -10,7 +10,7 @@
    <br>
    :⠀i use the block button for its <i>purpose</i>
 
-   ⠀⠀ ⠀⠀<i>making a better intro later</i>
+   ⠀⠀ ⠀⠀<i>making a better intro later</i>⠀( ">﹏<)
 </details>
 
 sign my $\color{#F5233F}{\text{atabook}}$ if you'd like⠀(๑ᵔ⤙ᵔ๑)
