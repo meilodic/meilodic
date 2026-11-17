@@ -7,6 +7,6 @@
 
 making a better intro later
 <details>
-   <summary> info </summary>
+   <summary> $\color{#00AC60}{\text{Text}$ </summary>
    infoinfoinfoinfo
 </details>
