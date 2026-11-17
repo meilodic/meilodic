@@ -8,11 +8,11 @@
    <br>
    :⠀c+h $\color{#F5233F}{\text{encouraged}}$, i love sitting with people ♡
    <br>
-   :⠀i don't mind sitting in <i>silence</i>
+   :⠀not online 24/7
    <br>
    :⠀i use the block button for its $\color{#F5233F}{\text{purpose}}$
 
    ⠀⠀ ⠀⠀<sub>making a better intro later ( ">﹏<)</sub>
 </details>
 
-sign my $\color{#F5233F}\large{\text{atabook}}$ if you'd like⠀[(๑ᵔ⤙ᵔ๑)](https://meilodic.atabook.org/)
+sign my $\color{#F5233F}\large{\text{atabook}}$ if you'd like⠀[(>⩊< マ](https://meilodic.atabook.org/)
