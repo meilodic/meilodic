@@ -19,5 +19,5 @@ sign my $\color{#F5233F}\large{\text{atabook}}$ if you'd like⠀[(>⩊< マ](htt
 
 ![blink1](https://wilardo.crd.co/assets/images/gallery09/6c8fe462_original.gif?v=f38baa4b) ![blink2](https://wilardo.crd.co/assets/images/gallery25/fd138842_original.gif?v=f38baa4b)
 <br>
-![blink3](https://wilardo.crd.co/assets/images/gallery19/a21199cc_original.gif?v=f38baa4b)
-![blink4](https://wilardo.crd.co/assets/images/gallery09/5dae6404_original.gif?v=f38baa4b)
+![blink3](https://wilardo.crd.co/assets/images/gallery01/49fa6e1e_original.gif?v=f38baa4b)
+![blink4](https://watermelon.crd.co/assets/images/gallery22/0d2afc31.gif?v=14238bdb)
