@@ -22,4 +22,4 @@ sign my $\color{#F5233F}\large{\text{atabook}}$ if you'd like⠀[(>⩊< マ](htt
 ![blink3](https://wilardo.crd.co/assets/images/gallery01/49fa6e1e_original.gif?v=f38baa4b)
 ![blink4](https://watermelon.crd.co/assets/images/gallery22/0d2afc31.gif?v=14238bdb)
 <br>
-   ⠀⠀ ⠀⠀   ⠀⠀<sub>$\color{#F5233F}{\text{⌖ do not copy}}$ my links or skins</sub>
+   ⠀⠀ ⠀⠀   ⠀⠀<sub>$\color{#F5233F}\large{\text{⌖ do not copy}}$ my links or skins</sub>
