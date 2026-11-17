@@ -3,16 +3,16 @@
 ![counter](https://komarev.com/ghpvc/?username=meilodic&color=grey&label=⠀notes⠀)![kitty](https://watermelon.crd.co/assets/images/gallery05/83538bbc.gif?v=14238bdb)
 
 <details>
-   <summary> $\color{#F5233F}{\text{♬⠀info}}$ </summary>
+   <summary> $\color{#F5233F}\large{\text{♬⠀info}}$ </summary>
    :⠀<i>whisper</i>2int
    <br>
    :⠀c+h $\color{#F5233F}{\text{encouraged}}$, i love sitting with people ♡
    <br>
-   :⠀i use the block button for its <i>purpose</i>
+   :⠀i don't mind sitting in <i>silence</i>
+   <br>
+   :⠀i use the block button for its $\color{#F5233F}{\text{purpose}}$
 
    ⠀⠀ ⠀⠀<sub>making a better intro later ( ">﹏<)</sub>
 </details>
 
-sign my $\color{#F5233F}{\text{atabook}}$ if you'd like⠀(๑ᵔ⤙ᵔ๑)
-
-$${\color{red}[abc]\(https://google.fr)}$$
+sign my $\color{#F5233F}\large{\text{atabook}}$ if you'd like⠀[(๑ᵔ⤙ᵔ๑)](https://meilodic.atabook.org/)
