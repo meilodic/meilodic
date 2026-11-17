@@ -1,12 +1,17 @@
 ***
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://files.catbox.moe/g6aiv8.png" ><img align="left" src="https://files.catbox.moe/g6aiv8.png"  alt="ribbon" width="175" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://files.catbox.moe/g6aiv8.png" ><img align="left" src="https://files.catbox.moe/g6aiv8.png"  alt="ribbon" width="200" style="max-length: 400%;"></a>
 
 ![counter](https://komarev.com/ghpvc/?username=meilodic&color=grey&label=⠀notes⠀)![kitty](https://watermelon.crd.co/assets/images/gallery05/83538bbc.gif?v=14238bdb)
+
 <details>
    <summary> $\color{#F5233F}{\text{♬ info}}$ </summary>
-   - whisper2int
+   whisper2int
+   <br>
+   c+h encouraged, i love sitting with people ♡
+   <br>
+   i use the block button for its purpose
 
    *making a better intro later*
 </details>
 
-sign my *atabook* if you'd like (๑ᵔ⤙ᵔ๑)
+sign my $\color{#F5233F}{\text{atabook}}$ if you'd like (๑ᵔ⤙ᵔ๑)
