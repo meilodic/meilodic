@@ -5,8 +5,10 @@
    <img src="https://files.catbox.moe/g6aiv8.png" width="200"/>
 </div>
 
-making a better intro later
 <details>
-   <summary> $\color{#00AC60}{\text{Text}$ </summary>
-   infoinfoinfoinfo
+   <summary> $\color{#F5233F}{\text{♬ info}}$ </summary>
+   - whisper2int
+
+   *making a better intro later*
 </details>
+sign my $\color{#F5233F}{\text{atabook}}$ if you'd like (๑ᵔ⤙ᵔ๑)
