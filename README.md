@@ -3,5 +3,10 @@
 
 <div align="left">
    <img src="https://files.catbox.moe/g6aiv8.png" width="200"/>
-   
 </div>
+
+making a better intro later
+<details>
+   <summary> info </summary>
+   infoinfoinfoinfo
+</details>
