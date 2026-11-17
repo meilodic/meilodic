@@ -1,4 +1,3 @@
-***
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://files.catbox.moe/g6aiv8.png" ><img align="left" src="https://files.catbox.moe/g6aiv8.png"  alt="ribbon" width="200" style="max-length: 400%;"></a>
 
 ![counter](https://komarev.com/ghpvc/?username=meilodic&color=grey&label=⠀notes⠀)![kitty](https://watermelon.crd.co/assets/images/gallery05/83538bbc.gif?v=14238bdb)
