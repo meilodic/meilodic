@@ -8,7 +8,7 @@
    <br>
    —⠀c+h $\color{#F5233F}{\text{encouraged}}$, i love sitting with people ♡
    <br>
-   —⠀not online 24/7
+   —⠀likely to be <i>offtab</i>
    <br>
    —⠀i use the block button for its $\color{#F5233F}{\text{purpose}}$
 
